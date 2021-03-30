@@ -1,6 +1,0 @@
-welocme to angular
-
-here we should know about html,css,javascript and angular
-
-
-we should create real time projects also
